@@ -1,0 +1,7 @@
+[
+    {"id": "1", "question": "Question 1", "author": "Author 1", "date": "Date 1", "time": "Time 1", "answer": "Answer 1"},
+
+    {"id": "2", "question": "Question 2", "author": "Author 2", "date": "Date 2", "time": "Time 2", "answer": "Answer 2"},
+
+    {"id": "3", "question": "Question 3", "author": "Author 3", "date": "date 3", "time": "Time 3", "answer": "Answer 3"} 
+]
